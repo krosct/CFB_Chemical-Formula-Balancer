@@ -138,8 +138,16 @@ Alguns exemplos de entradas inválidas e que **não serão processadas**:
 ## ➡Autoria e Contato
 
 - Feito por: Gabriel Monteiro Silva
-- Data: 04/2025
+- Feito em: 04/2025
+- [GitHub](https://github.com/krosct): krosct
+- [Email](mailto:krosct@gmail.com): krosct@gmail.com
 
 ---
 
 #### 📢 Sinta-se à vontade para contribuir e sugerir melhorias. Se você encontrar algum bug ou desejar adicionar novas funcionalidades, por favor, abra uma issue ou envie um pull request.
+
+---
+
+#### ⚠️ TRABALHO EXPERIMENTAL!
+#### ⛔ Esse programa ainda **não** foi revisado, ajustado e melhorado. Considere que a **performance é relativamente baixa** e o código ainda possui bugs e possíveis erros.
+
