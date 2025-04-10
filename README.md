@@ -13,6 +13,7 @@ Um programa desenvolvido em **Python** 🐍 que permite **balancear equações q
 - [Equações Inválidas](#equações-inválidas)
 - [Requisitos e Instalação](#requisitos-e-instalação)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Fotos de Tela](#fotos-de-tela)
 - [Autoria e Contato](#autoria-e-contato)
 
 ---
@@ -132,6 +133,22 @@ Alguns exemplos de entradas inválidas e que **não serão processadas**:
 - **Regex (re)**: Utilizada para validar os formatos das equações químicas.
 - **Fractions e math**: Para manipulação exata de frações e cálculos matemáticos durante o balanceamento.
 - **Matrix Computation**: Implementado para converter a equação química em um sistema linear que pode ser resolvido.
+
+---
+
+## ➡Fotos de Tela
+
+### Tela inicial
+![Imagem](screenshots/initial%20screen.png)
+
+### Fórmula balanceada
+![Imagem](screenshots/balanced%20formula.png)
+
+### Fórmula mal montada
+![Imagem](screenshots/bad%20built%20formula.png)
+
+### Balanceamento impossível
+![Imagem](screenshots/impossible%20balancing.png)
 
 ---
 
