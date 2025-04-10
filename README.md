@@ -4,7 +4,7 @@ Um programa desenvolvido em **Python** 🐍 que permite **balancear equações q
 
 ---
 
-## Índice
+## ➡Índice
 
 - [Visão Geral](#visão-geral)
 - [Funcionalidades](#funcionalidades)
@@ -17,14 +17,14 @@ Um programa desenvolvido em **Python** 🐍 que permite **balancear equações q
 
 ---
 
-## Visão Geral
+## ➡Visão Geral
 
 Este **balanceador de equações químicas** foi criado para ajudar alunos, professores e entusiastas da química a verificar e obter as equações balanceadas a partir de equações fornecidas em texto.  
 A interface é construída com a biblioteca **Flet**, que traz uma experiência gráfica simples e interativa, enquanto a lógica de balanceamento é baseada em operações com frações e matrizes para resolver sistemas lineares.
 
 ---
 
-## Funcionalidades
+## ➡Funcionalidades
 
 - **Entrada Validada**: Utiliza expressões regulares (_regex_) para validar o formato das equações químicas.
 - **Balanceamento Automático**: Processa os reagentes e produtos, monta a matriz do sistema e resolve para obter os coeficientes balanceados.
@@ -33,7 +33,7 @@ A interface é construída com a biblioteca **Flet**, que traz uma experiência 
   
 ---
 
-## ➡️ Formato das Entradas
+## ➡Formato das Entradas
 
 As entradas devem seguir um padrão específico. Alguns exemplos válidos:
 
@@ -49,7 +49,7 @@ As entradas devem seguir um padrão específico. Alguns exemplos válidos:
 
 ---
 
-## ➡️ Exemplos de Uso
+## ➡Exemplos de Uso
 
 ### Exemplo 1:
 
@@ -72,7 +72,7 @@ O programa calculará os coeficientes e mostrará a equação balanceada adequad
 
 ---
 
-## ➡️ Equações Inválidas
+## ➡Equações Inválidas
 
 Alguns exemplos de entradas inválidas e que **não serão processadas**:
 
@@ -88,7 +88,7 @@ Alguns exemplos de entradas inválidas e que **não serão processadas**:
 
 ---
 
-## ➡️ Requisitos e Instalação
+## ➡Requisitos e Instalação
 
 ### Requisitos
 
@@ -125,7 +125,7 @@ Alguns exemplos de entradas inválidas e que **não serão processadas**:
 
 ---
 
-## ➡️ Tecnologias Utilizadas
+## ➡Tecnologias Utilizadas
 
 - **Python**: Linguagem de programação usada para desenvolver a lógica de balanceamento.
 - **Flet**: Biblioteca para criar a interface gráfica interativa.
@@ -135,7 +135,7 @@ Alguns exemplos de entradas inválidas e que **não serão processadas**:
 
 ---
 
-## ➡️ Autoria e Contato
+## ➡Autoria e Contato
 
 - Feito por: Gabriel Monteiro Silva
 - Data: 04/2025
