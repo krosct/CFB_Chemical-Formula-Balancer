@@ -4,7 +4,7 @@ Um programa desenvolvido em **Python** 🐍 que permite **balancear equações q
 
 ---
 
-## ➡️ Índice
+## Índice
 
 - [Visão Geral](#visão-geral)
 - [Funcionalidades](#funcionalidades)
@@ -17,14 +17,14 @@ Um programa desenvolvido em **Python** 🐍 que permite **balancear equações q
 
 ---
 
-## ➡️ Visão Geral
+## Visão Geral
 
 Este **balanceador de equações químicas** foi criado para ajudar alunos, professores e entusiastas da química a verificar e obter as equações balanceadas a partir de equações fornecidas em texto.  
 A interface é construída com a biblioteca **Flet**, que traz uma experiência gráfica simples e interativa, enquanto a lógica de balanceamento é baseada em operações com frações e matrizes para resolver sistemas lineares.
 
 ---
 
-## ➡️ Funcionalidades
+## Funcionalidades
 
 - **Entrada Validada**: Utiliza expressões regulares (_regex_) para validar o formato das equações químicas.
 - **Balanceamento Automático**: Processa os reagentes e produtos, monta a matriz do sistema e resolve para obter os coeficientes balanceados.
